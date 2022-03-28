@@ -6,11 +6,11 @@ import ru.gb.base.BaseTest;
 import ru.gb.listeners.AllureListener;
 
 @Listeners(AllureListener.class)
-public class ScreenShotTest extends BaseTest {
+public class ScreenShotFailTest extends BaseTest {
 
     @Test
     public void checkMainPageScreen(){
         openApp()
-                .checkScreenshot();
+                .checkFailScreenshot();
     }
 }
