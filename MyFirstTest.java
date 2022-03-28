@@ -13,7 +13,7 @@ public class MyFirstTest extends BaseTest {
         //DesiredCapabilities capabilities = new DesiredCapabilities();
 
         //capabilities.setCapability("platformName", "Android");
-        //capabilities.setCapability("deviceName", "Pixel");
+        //capabilities.setCapability("deviceName", "Pixel 3 GB");
         //capabilities.setCapability("platformVersion", "10");
         //capabilities.setCapability("udid", "emulator-5554");
         //capabilities.setCapability("automationName", "UiAutomator2");
